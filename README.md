@@ -11,7 +11,7 @@
 • I'm an avid Competitive Programmer and love solving algorithmic problems. I regularly participate on:
 
 - CodeChef 4 Star: https://www.codechef.com/users/pranav_1015
-- LeetCode weekly contests: https://leetcode.com/pranavpathare1111/
+- LeetCode weekly contests: https://leetcode.com/pranav_1015/
 
 • Check out my Personal Portfolio: https://pranavpathare.github.io/
 
